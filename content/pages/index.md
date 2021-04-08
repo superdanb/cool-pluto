@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: From Editor
+    title: This is a big hero unit
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
